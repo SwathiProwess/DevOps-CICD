@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.mule.tools.maven</groupId>
+	<groupId>781344dd-5c35-44e2-a7d5-54084ffee180</groupId>
 	<artifactId>DevOpsCICD</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
